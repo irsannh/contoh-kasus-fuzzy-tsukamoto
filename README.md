@@ -1,0 +1,1 @@
+Contoh Penggunaan Logika Fuzzy Metode Tsukamoto Untuk Pengendalian Suhu dan Kelembapan (Studi Kasus: Kumbung Jamur Tiram). Output Logika Fuzzy ini ada tiga, yaitu Kecepatan Kipas (dalam PWM), Durasi Aktifnya Pompa, dan Durasi Aktifnya Heater (dalam milisecond).
